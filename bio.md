@@ -7,4 +7,4 @@
 ### Personal info about me 
 - I enjoy listening to classical fusion music, dancing and travelling.
 - I'm also a pretty good cook, especially in Indian cuisine (in my head)
-![A specimen of the same attached](/Users/aneysharoy/Desktop/Georgetown stuff/Spring Semester/Experimental Design Methods/party food)
+![A specimen of the same attached](https://raw.githubusercontent.com/gui2de/ppol6818-ar1875/main/party%20food.JPG)
